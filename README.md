@@ -2,7 +2,7 @@
 - 👀 I’m interested in Travelling 
 - 🌱 I’m currently learning New software
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by gmail
+- 📫 How to reach me by gmail id -mallikarjunkatare12@gmail.com
 
 <!---
 MallikarjunKatare/MallikarjunKatare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
